@@ -1,8 +1,5 @@
 # Heart-Disease Prediction Model
 
-# data-analysis
-This repository contains all my data explorations anaysis and ML model
-
 # Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
@@ -26,6 +23,12 @@ This repository contains all my data explorations anaysis and ML model
 
 Heart Disease dataset: from kaggle datasets.
 Ref link - https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
+| Feature           | Discription                             | Data type    | values        |
+| -------------     | --------------                          |------------- | ------------- |
+| age               | age of person                           | numeric      |  b/w 25-80    |
+| gender            | male-1,female-0                         | binary       | 0,1           |
+| chest pain type   | categories of chest pain                | numeric      | 1,2,3,4       |
 
 ## Tools
 
