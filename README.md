@@ -24,11 +24,10 @@
 Heart Disease dataset: from kaggle datasets.
 Ref link - https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
-| Feature           | Discription                             | Data type    | values        |
-| -------------     | --------------                          |------------- | ------------- |
-| age               | age of person                           | numeric      |  b/w 25-80    |
-| gender            | male-1,female-0                         | binary       | 0,1           |
-| chest pain type   | categories of chest pain                | numeric      | 1,2,3,4       |
+![alt text](images/HeartDisease_Attributes.png)
+
+![alt text](images/attribute_details.png)
+
 
 ## Tools
 
