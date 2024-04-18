@@ -24,7 +24,7 @@
 Heart Disease dataset: from kaggle datasets.
 Ref link - https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
-![alt text](images/HeartDisease_Attributes.png)
+![alt text](images/Attributes.jpg)
 
 ![alt text](images/attribute_details.png)
 
