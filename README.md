@@ -51,8 +51,11 @@ EDA involved exploring the heart diseases in data to answer key questions, such 
 1. what is overall heart disease rate in total population ?
    
    Ans: approx = 53%
-   
+
+
    ![alt text](images/overall_hd_ratios.jpg)
+
+   
    
 3. what is male and female having a heart disease distribution ?
    
