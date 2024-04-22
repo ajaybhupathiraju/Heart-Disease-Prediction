@@ -155,9 +155,11 @@ we will fit below all models and choose best fit model
 
 Model         | Train accuracy  | Test accuracy |
 ------------- | -------------   | ------------- |
-logistic reg  |                 |               |
-SVM           |                 |               |
-RF            |                 |               |
+logistic reg  |   0.82          |   0.80        |
+SVM           |   0.71          |   0.69        |
+RF            |   1.0           |   0.91        |
+
+Random Forest Classifier - best fit model
 
 ## Training the model
 
