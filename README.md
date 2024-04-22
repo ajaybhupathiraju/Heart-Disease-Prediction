@@ -8,6 +8,7 @@
 - [Machine learning model](#machine-learning-model)
 - [Assumptions](#assumptions)
 - [Performance metrics](#performance-metrics)
+- [loss function](#loss-function)
 - [Choosing a Model](#choosing-a-model)
 - [Training the Model](#training-the-model)
 - [Making Predictions](#making-predictions)
