@@ -151,6 +151,7 @@ Because the data set is small we can try to fit many classification models and c
 1. log-loss since its a binary classification problem.
 
 ## Choosing a model
+we will fit below all models and choose best fit model
 1. logistic regression
 2. SVM
 3. Decision Trees
