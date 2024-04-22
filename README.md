@@ -47,8 +47,8 @@ In the initial data preparation phase, we performed the following tasks:
 
 EDA involved exploring the heart diseases in data to answer key questions, such as:
 
-1. what is heart disease rate in total population ?
-2. what categories of people gets high risk ?
+1. what is overall disease rate in total population ?
+2. what are the common identified risk factors in data ?
 3. why mens have high life style disorders ? give some reasons ?
 
 [**More EDA Anaysis**](EDA_HeartDisease.ipynb)
