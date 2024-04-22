@@ -144,7 +144,7 @@ Because the data set is small we can try to fit many classification models and c
 2. accuracy score, precision and recalls
 3. roc-auc curve  [ ROC - TPR vs FPR , AUC - greater value of AUC denotes better model performance ]
 
-## loss function
+## Loss function
 1. log-loss since its a binary classification problem.
 
 ## Choosing a model
