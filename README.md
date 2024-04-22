@@ -48,12 +48,16 @@ In the initial data preparation phase, we performed the following tasks:
 EDA involved exploring the heart diseases in data to answer key questions, such as:
 
 1. what is overall heart disease rate in total population ?
-   ans) approx : 53%
    
-2. what % mens and female have heart disease ?
-   ans) Mens with 47% and female with 6%
+   Ans: approx = 53%
    
-3. why mens have high life style disorders ? give some reasons ?
+3. what % mens and female have heart disease ?
+   
+   Ans: Mens with 47% and female with 6%
+   
+5. what are the top 3 reasons for mens having high risk?
+
+   Ans : age, hypertension, diabetic and chest pain
      
 
 [**More EDA Anaysis**](EDA_HeartDisease.ipynb)
