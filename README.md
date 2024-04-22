@@ -121,7 +121,7 @@ Based on the analysis, we recommend the following actions:
 
 ## Limitations
 
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
+Since the dataset is limited with approx 1190 rows and 11 features, it might slightly affects the accuracy results of my conclusions from the analysis.
 
 ## Machine learning model
 
