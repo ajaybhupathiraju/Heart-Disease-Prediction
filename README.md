@@ -60,9 +60,18 @@ EDA involved exploring the heart diseases in data to answer key questions, such 
    ![alt text](images/Males_vs_Female_heartdisease.jpg)
    
    
-5. what are the top 3 reasons for mens having high risk?
+4. what are the top 3 reasons for mens having high risk?
 
    Ans : age, hypertension, diabetic and chest pain
+   
+6. what age group have more heart diseases ?
+   between age 50 and 65 years
+   ![alt text](images/heart_disease_numbers_by_age.jpg)
+   
+
+   
+
+   5. 
      
 
 [**More EDA Anaysis**](EDA_HeartDisease.ipynb)
