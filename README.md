@@ -133,14 +133,16 @@ Because the data set is small we can try with many ml models and compare the res
 which is going to deployee to server.
 
 ## Assumptions
-1. alredy removed the outliers.
-2. balanaced data distribution used for both train and test.
+1. no outliers.
+2. dataset is balanced and data distrubution is identical b/w train and test sets.
 3. handles all missing values.
 4. interpreting the model is less important.
+5. high accuracy
 
 ## Performance metrics
 1. confussion matrix
 2. accuracy score, precision and recalls
+3. roc-auc curve  [ ROC - TPR vs FPR , AUC - greater value of AUC denotes better model performance ]
 
 ## loss function
 1. log-loss since its a binary classification problem.
