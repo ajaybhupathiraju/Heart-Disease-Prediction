@@ -51,7 +51,7 @@ EDA involved exploring the heart diseases in data to answer key questions, such 
 2. what categories of people gets high risk ?
 3. why mens have high life style disorders ? give some reasons ?
 
-[**More indetail EDA Anaysis**](EDA_HeartDisease.ipynb)
+[**More EDA Anaysis**](EDA_HeartDisease.ipynb)
 
 
 ## Data Analysis
