@@ -45,7 +45,13 @@ In the initial data preparation phase, we performed the following tasks:
 
 ## Exploratory Data Analysis
 
-EDA involved exploring the sales data to answer key questions, such as:
+EDA involved exploring the heart diseases in data to answer key questions, such as:
+
+1. what is heart disease rate in total population ?
+2. what categories of people gets high risk ?
+3. why mens have high life style disorders ? give some reasons ?
+
+[**More indetail EDA Anaysis**](EDA_HeartDisease.ipynb)
 
 
 ## Data Analysis
