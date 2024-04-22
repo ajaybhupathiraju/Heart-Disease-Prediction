@@ -109,17 +109,15 @@ having h.age > 45
 
 The analysis results are summarized as follows:
 
-    1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-    2. Product Category A is the best-performing category in terms of sales and revenue.
-    3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+    1. Male have high risk of heart diseases.
+    2. young age peoples high numbers in asymptomatic heart disease
+    3. age with other factors like cholestrol,bp and diabetic are direct relation with heart disease
 
 ## Recommendations
 
 Based on the analysis, we recommend the following actions:
 
-    Invest in marketing and promotions during peak sales seasons to maximize revenue.
-    Focus on expanding and promoting products in Category A.
-    Implement a customer segmentation strategy to target high-LTV customers effectively.
+    1. Between age 33-40 noticed high cholestrol levels, advice regular exercise will help to reduce the no of heart disease.
 
 ## Limitations
 
