@@ -75,6 +75,7 @@ group by h."chest pain type"
 order by h."chest pain type"
 having h.age > 45
 ```
+[**SQL Query Anaysis**](QueryAnaysis.sql)
 
 ## Results/Findings
 
