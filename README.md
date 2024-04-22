@@ -66,6 +66,7 @@ EDA involved exploring the heart diseases in data to answer key questions, such 
    
 6. what age group have more heart diseases ?
    between age 50 and 65 years
+   
    ![alt text](images/heart_disease_numbers_by_age.jpg)
    
 
