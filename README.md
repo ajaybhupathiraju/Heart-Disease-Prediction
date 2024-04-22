@@ -153,11 +153,11 @@ Because the data set is small we can try to fit many classification models and c
 ## Choosing a model
 we will fit below all models and choose best fit model
 
-Model         | Train accuracy  | Test accuracy |
-------------- | -------------   | ------------- |
-logistic reg  |   0.82          |   0.80        |
-SVM           |   0.71          |   0.69        |
-RF            |   1.0           |   0.91        |
+Model         | Train accuracy  | Test accuracy | Cross Validation |  Hyperparameters   |
+------------- | -------------   | ------------- | -------------    |  -------------     |                
+logistic reg  |   0.82          |   0.80        |    cv=5          |   l2-reg,C=0.1     |
+SVM           |   0.71          |   0.69        |    cv=5          |   default          |
+RF            |   1.0           |   0.91        |    cv=5          |   log_loss,default |
 
 Random Forest Classifier - best fit model
 
