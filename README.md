@@ -51,9 +51,14 @@ EDA involved exploring the heart diseases in data to answer key questions, such 
    
    Ans: approx = 53%
    
-3. what % mens and female have heart disease ?
+   ![alt text](images/attribute_description.jpg)
    
+3. what is mens and female have heart disease distribution ?
+
    Ans: Mens with 47% and female with 6%
+
+   ![alt text](images/attribute_description.jpg)
+   
    
 5. what are the top 3 reasons for mens having high risk?
 
