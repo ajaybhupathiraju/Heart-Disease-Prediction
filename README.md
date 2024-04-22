@@ -152,10 +152,12 @@ Because the data set is small we can try to fit many classification models and c
 
 ## Choosing a model
 we will fit below all models and choose best fit model
-1. logistic regression
-2. SVM
-3. Decision Trees
-4. Random Forest
+
+Model         | Train accuracy  | Test accuracy |
+------------- | -------------   | ------------- |
+logistic reg  |                 |               |
+SVM           |                 |               |
+RF            |                 |               |
 
 ## Training the model
 
