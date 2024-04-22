@@ -162,7 +162,9 @@ RF            |   1.0           |   0.91        |    cv=5          |   log_loss,
 Random Forest Classifier - best fit model
 
 ## Training the model
+[**ML model code**](ML_Models.ipynb)
 
 ## Making predictions
+[**ML model code**](ML_Models.ipynb)
 
 ## Deployee model
