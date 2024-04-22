@@ -129,8 +129,7 @@ Predicting heart disease is basically a binary classification model.
 class - 0 -> no heart disease.
 class - 1 -> heart disease.
 
-Because the data set is small we can try with many ml models and compare the results take the best fit as final model
-which is going to deployee to server.
+Because the data set is small we can try to fit many classification models and compare the results. finally take the best fit model, which is going to deployee to server.
 
 ## Assumptions
 1. no outliers.
@@ -148,6 +147,10 @@ which is going to deployee to server.
 1. log-loss since its a binary classification problem.
 
 ## Choosing a model
+1. logistic regression
+2. SVM
+3. Decision Trees
+4. Random Forest
 
 ## Training the model
 
