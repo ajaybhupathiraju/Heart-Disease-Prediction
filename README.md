@@ -125,9 +125,25 @@ Since the dataset is limited with approx 1190 rows and 11 features, it might sli
 
 ## Machine learning model
 
+Predicting heart disease is basically a binary classification model.
+class - 0 -> no heart disease.
+class - 1 -> heart disease.
+
+Because the data set is small we can try with many ml models and compare the results take the best fit as final model
+which is going to deployee to server.
+
 ## Assumptions
+1. alredy removed the outliers.
+2. balanaced data distribution used for both train and test.
+3. handles all missing values.
+4. interpreting the model is less important.
 
 ## Performance metrics
+1. confussion matrix
+2. accuracy score, precision and recalls
+
+## loss function
+1. log-loss since its a binary classification problem.
 
 ## Choosing a model
 
