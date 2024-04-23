@@ -29,7 +29,7 @@ class ModelInput(BaseModel):
     
       
 # load model
-model = pickle.load(open("C:\\Users\\q833597\\OneDrive - IQVIA\\Desktop\\deployee_ml\\hdmodel.pkl","rb"))
+model = pickle.load(open("deployement/hdmodel.pkl","rb"))
 
 @app.post('/heartdisease_prediction')
 def heartdisease_pred(input_parameters : ModelInput):
