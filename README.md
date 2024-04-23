@@ -8,11 +8,11 @@
 - [Machine learning model](#machine-learning-model)
 - [Assumptions](#assumptions)
 - [Performance metrics](#performance-metrics)
-- [loss function](#loss-function)
+- [Loss function](#loss-function)
 - [Choosing a Model](#choosing-a-model)
 - [Training the Model](#training-the-model)
 - [Making Predictions](#making-predictions)
-- [deployee model](#deployee-model)
+- [Deployee model](#deployee-model)
 
 ## Project Overview
   
@@ -22,7 +22,7 @@
 
 ## Data Sources
 
-Heart Disease dataset: from kaggle datasets.
+Heart Disease dataset: from kaggle datasets
 Ref link - https://www.kaggle.com/datasets
 
 [**view data**](HeartDiesease.csv)
@@ -52,7 +52,7 @@ EDA involved exploring the heart diseases in data to answer key questions, such 
 
 1. what is overall heart disease rate in total population ?
    
-   Ans: approx = 53%
+   Ans: approx = 53%.
 
 
    ![alt text](images/overall_hd_ratios.jpg)
@@ -61,14 +61,14 @@ EDA involved exploring the heart diseases in data to answer key questions, such 
    
 3. % males and females associated with heart diseases ?
    
-   Ans: Mens with 47% and female with 6%
+   Ans: Mens with 47% and female with 6%.
 
    ![alt text](images/Males_vs_Female_heartdisease.jpg)
    
    
 5. what are the top 3 reasons for mens having high risk?
 
-   Ans : age, hypertension, diabetic and chest pain
+   Ans : age, hypertension, diabetic and chest pain.
    
 6. which age group is having high risk of heart diseases ?
    
@@ -111,9 +111,9 @@ having h.age > 45
 
 The analysis results are summarized as follows:
 
-    1. Male have high risk of heart diseases.
-    2. young age peoples high numbers in asymptomatic heart disease
-    3. age with other factors like cholestrol,bp and diabetic are direct relation with heart disease
+    1. Males have high risk of heart diseases rate.
+    2. young age groups identified with high numbers in heart disease with most of them are asymptomatic. 
+    3. age with other factors like cholestrol,bp and diabetic are direct relation with heart disease.
 
 ## Recommendations
 
@@ -123,7 +123,7 @@ Based on the analysis, we recommend the following actions:
 
 ## Limitations
 
-Since the dataset is limited with approx 1190 rows and 11 features, it might slightly affects the accuracy results of my conclusions from the analysis.
+Since the dataset is very small / limited with approx 1190 rows and 11 features, it might slightly affects the accuracy results of my conclusions from the analysis.
 
 ## Machine learning model
 
@@ -138,12 +138,12 @@ Because the data set is small we can try to fit many classification models and c
 2. dataset is balanced and data distrubution is identical b/w train and test sets.
 3. handles all missing values.
 4. interpreting the model is less important.
-5. high accuracy
+5. high accuracy.
 
 ## Performance metrics
-1. confussion matrix
-2. accuracy score, precision and recalls
-3. roc-auc curve  [ ROC - TPR vs FPR , AUC - greater value of AUC denotes better model performance ]
+1. confussion matrix.
+2. accuracy score, precision and recalls.
+3. roc-auc curve  [ ROC - TPR vs FPR , AUC - greater value of AUC denotes better model performance ].
 
 ## Loss function
 1. log-loss since its a binary classification problem.
