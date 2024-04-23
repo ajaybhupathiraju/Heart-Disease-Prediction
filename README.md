@@ -155,9 +155,9 @@ we will fit below all models and choose best fit model
 
 Model         | Train accuracy  | Test accuracy | Cross Validation |  Hyperparameters   |
 ------------- | -------------   | ------------- | -------------    |  -------------     |                
-logistic reg  |   0.82          |   0.80        |    cv=5          |   l2-reg,C=0.1     |
-SVM           |   0.71          |   0.69        |    cv=5          |   default          |
-RF            |   1.0           |   0.91        |    cv=5          |   log_loss,default |
+logistic reg  |   0.83          |   0.81        |    cv=5          |   l2-reg,C=0.1     |
+SVM           |   0.90          |   0.85        |    cv=5          |   default          |
+RF            |   1.0           |   0.92        |    cv=5          |   log_loss,default |
 
 Random Forest Classifier - best fit model
 
@@ -168,3 +168,19 @@ Random Forest Classifier - best fit model
 [**ML model code**](ML_Models.ipynb)
 
 ## Deployee model
+
+Deployee the model into my local machine using fastAPI.
+[**code reference**](ml_api.py)
+
+Running a fastAPI server:
+![alt text](images/deployee_ml_model.jpg)
+
+
+Test Model:
+![alt text](images/test_ml_model.jpg)
+[**code reference**](Test.py)
+
+Results:
+![alt text](images/results.jpg)
+
+
