@@ -1,1 +1,18 @@
+1. Deployee ml_api.py [ main file ] to fastAPI server
+   > python ml_api.py
+
+2. check the ml_model.pkl file location
+   > 
+
+3. configure the port and host 
+   > port=8087,host="127.0.0.1"
+
+4. copy the server url with post mapping
+   > http://127.0.0.1:8087/heartdisease_prediction
+
+5. run the Test.py 
+   > python Test.py
+
+
+
 
