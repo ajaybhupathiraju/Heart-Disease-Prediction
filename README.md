@@ -170,7 +170,7 @@ Random Forest Classifier - best fit model
 ## Deployee model
 
 Deployee the model into my local machine using fastAPI.
-[**code reference**](ml_api.py)
+[**source code**](ml_api.py)
 
 Running a fastAPI server:
 
@@ -180,25 +180,10 @@ Running a fastAPI server:
 Test Model:
 input : [40,1,2,140,289,0,0,172,0,0.0,1]
 
-"age":40,
-"sex":1,
-"chest_pain_type":2,
-"resting_bp_s":140,
-"cholesterol":289,
-"fasting_blood_sugar":0,
-"resting_ecg":0,
-"max_heart_rate":172,
-"exercise_angina":0,
-"oldpeak":0.0,
-"ST_slope":1
-
-
-
 ![alt text](images/test_ml_model.jpg)
 
 
-[**code reference**](Test.py)
-
+[**source code**](Test.py)
 
 
 Results:
