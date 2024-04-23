@@ -57,7 +57,7 @@ EDA involved exploring the heart diseases in data to answer key questions, such 
 
    
    
-3. what is male and female having a heart disease distribution ?
+3. % males and females associated with heart diseases ?
    
    Ans: Mens with 47% and female with 6%
 
@@ -68,7 +68,7 @@ EDA involved exploring the heart diseases in data to answer key questions, such 
 
    Ans : age, hypertension, diabetic and chest pain
    
-6. what age group have more heart diseases ?
+6. what age group have high risk ?
    
    Ans : Between age 50 and 65 years.
    
