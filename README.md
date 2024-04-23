@@ -1,6 +1,6 @@
 # Heart-Disease Prediction Model
 
-# Table of Contents
+## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [EDA](#exploratory-data-analysis)
