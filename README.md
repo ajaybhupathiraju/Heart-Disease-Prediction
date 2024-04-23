@@ -170,11 +170,12 @@ Random Forest Classifier - best fit model
 ## Deployee model
 
 Deployee the model into my local machine using fastAPI.
+
 [**source code**](ml_api.py)
 
 Running a fastAPI server:
 
-![alt text](images/deployee_ml_model.jpg)
+![alt text](images/deployee_to_fastAPI.jpg)
 
 
 Test Model:
