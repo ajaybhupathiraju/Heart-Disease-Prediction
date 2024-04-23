@@ -68,7 +68,7 @@ EDA involved exploring the heart diseases in data to answer key questions, such 
 
    Ans : age, hypertension, diabetic and chest pain
    
-6. what age group have high risk ?
+6. which age group is having high risk of heart diseases ?
    
    Ans : Between age 50 and 65 years.
    
