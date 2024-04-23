@@ -2,7 +2,7 @@
    > python ml_api.py
 
 2. check the ml_model.pkl file location
-   > 
+   > deployement/hdmodel.pkl
 
 3. configure the port and host 
    > port=8087,host="127.0.0.1"
