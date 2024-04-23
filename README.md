@@ -25,7 +25,7 @@
 Heart Disease dataset: from kaggle datasets.
 Ref link - https://www.kaggle.com/datasets
 
-![alt text](HeartDiesease.csv)
+[**HeartDiesease.csv**](HeartDiesease.csv)
 
 ![alt text](images/Attributes.jpg)
 
