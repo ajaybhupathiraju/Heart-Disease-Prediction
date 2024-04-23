@@ -75,10 +75,6 @@ EDA involved exploring the heart diseases in data to answer key questions, such 
    ![alt text](images/heart_disease_numbers_by_age.jpg)
    
 
-   
-
-   5. 
-     
 
 [**More EDA Anaysis**](EDA_HeartDisease.ipynb)
 
@@ -121,7 +117,7 @@ The analysis results are summarized as follows:
 
 Based on the analysis, we recommend the following actions:
 
-    1. Between age 33-40 noticed high cholestrol levels, advice regular exercise will help to reduce the no of heart disease.
+    1. Between age 33-40 noticed high cholestrol levels, regular exercise will help to reduce the no of heart disease.
 
 ## Limitations
 
