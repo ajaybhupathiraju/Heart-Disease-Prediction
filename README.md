@@ -36,7 +36,8 @@ Ref link - https://www.kaggle.com/datasets
 
 - CSV
 - PostgreSQL - Data Analysis
-- PowerBI    - Visuvalization reports 
+- PowerBI    - Visuvalization reports
+- ML Framework & lib - Scikit-learn,Numpy,Pandas & Matplotlib
 
 ## Data Cleaning/Preparation
 
