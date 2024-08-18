@@ -152,11 +152,13 @@ Because the data set is small we can try to fit many classification models and c
 ## Choosing a model
 we will fit below all models and choose best fit model
 
-Model         | Train accuracy  | Test accuracy | Cross Validation |  Hyperparameters   |
-------------- | -------------   | ------------- | -------------    |  -------------     |                
-logistic reg  |   0.83          |   0.81        |    cv=5          |   l2-reg,C=0.1     |
-SVM           |   0.90          |   0.85        |    cv=5          |   default          |
-RF            |   1.0           |   0.92        |    cv=5          |   log_loss,default |
+Model                 | Train accuracy  | Test accuracy |   log_loss    |  area under curve (AUC)   |  Cross Validation  |  Hyperparameters   |
+--------------------- | -------------   | ------------- | ------------- |   ---------------------   |  ----------------  | ----------------   | 
+KNeighborsClassifier  |   0.88          |   0.83        |   0.32        |       0.93                |    cv=5            |   K=6              |
+Logistic regression   |   0.83          |   0.81        |   0.37        |       0.91                |    cv=5            |   alpha : 0.001    |
+SVM                   |   0.82          |   0.81        |   0.38        |       0.9                 |    cv=5            |   alpha=1          |
+RandomForest Classifi |   0.99          |   0.93        |   0.24        |       0.95                |    cv=5            |   n_estimators=95  |
+xgboost               |   --            |   --          |   0.31        |       --                  |    --              |   default          |
 
 Random Forest Classifier - best fit model
 
