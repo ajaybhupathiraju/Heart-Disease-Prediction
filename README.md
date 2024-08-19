@@ -120,7 +120,7 @@ The analysis results are summarized as follows:
 
 Based on the analysis, we recommend the following actions:
 
-    1. Between age 33-40 noticed high cholestrol levels, regular exercise will help to reduce the no of heart disease.
+    1. Between age 45-65 noticed high cholestrol levels, regular exercise will help to reduce the no of heart disease.
 
 ## Limitations
 
