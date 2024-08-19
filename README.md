@@ -185,9 +185,6 @@ input : [40,1,2,140,289,0,0,172,0,0.0,1]
 ![alt text](images/test_ml_model.jpg)
 
 
-[**source code**](/deployement/Test.py)
-
-
 Results:
 
 ![alt text](images/results.jpg)
